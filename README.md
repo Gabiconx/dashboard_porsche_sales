@@ -6,7 +6,7 @@ Dashboard interativo desenvolvido para análise executiva de desempenho das vend
 
 ## 🔗 Links do Projeto
 
-- 🚀 **Dashboard Publicado (GitHub Pages):** https://gabiconx.github.io/dashboard_porsche_sales/
+- 🚀 **Dashboard Publicado (GitHub Pages):** [https://gabiconx.github.io/dashboard_porsche_sales/](https://github.com/Gabiconx/dashboard_porsche_sales)
 - 📂 **Repositório do Código-Fonte:** https://github.com/Gabiconx/painel_vendas_porsche 
 
 ---
